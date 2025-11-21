@@ -54,7 +54,7 @@ enableRobotsTXT = true
   # for posts that don't have `images` defined in their front matter; By setting
   # `generateSocialCard` to false, you can prevent this behavior. For more
   # information see layouts/partials/social_card.html
-  generateSocialCard = true
+  generateSocialCard = false
 
   # Author metadata. This is mostly used for the RSS feed of your site, but the
   [params.author]

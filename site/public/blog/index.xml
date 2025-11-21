@@ -10,14 +10,28 @@
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>my computer</title>
-      <link>http://localhost:1313/blog/pc-specs/</link>
+      <link>http://localhost:1313/blog/mycomputer/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/pc-specs/</guid>
-      <description>&lt;p&gt;Specs&#xA;&lt;img src=&#34;http://localhost:1313/images/neofetch.png&#34; alt=&#34;image1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Desktop&#xA;&lt;img src=&#34;http://localhost:1313/images/desktop.png&#34; alt=&#34;image2&#34;&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Specs
-<img src="/images/neofetch.png" alt="image1"></p>
+      <guid>http://localhost:1313/blog/mycomputer/</guid>
+      <description>&lt;p&gt;random stuff about my computer&lt;/p&gt;&#xA;&lt;p&gt;Previously my desktop computer had windows 10 installed for a while, I mainly used it only for watching media and playing video games. Then I updated to windows 11 in order to get system/security updates, but I only used it for a month. The ui was extremely bloated, with random news/copliot/weather icons on the lock screen, desktop screen, menu, taskbar, basically everywhere. Additionally, for windows in general I found the windows filesystem/commandprompt/powershell confusing to use, and files that should be saved to documents would save to onedrive for some reason.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>random stuff about my computer</p>
+<p>Previously my desktop computer had windows 10 installed for a while, I mainly used it only for watching media and playing video games. Then I updated to windows 11 in order to get system/security updates, but I only used it for a month. The ui was extremely bloated, with random news/copliot/weather icons on the lock screen, desktop screen, menu, taskbar, basically everywhere. Additionally, for windows in general I found the windows filesystem/commandprompt/powershell confusing to use, and files that should be saved to documents would save to onedrive for some reason.</p>
+<p>So I decided recently during this month (November 2025) to switch using Linux Mint. I figured out how to do some basic customiztion with the default and downloadable applets, extensions and themes. I added the OrchideaDock theme from the download section. Then I added on my taskbar workplace switcher and windows quick list, which are really convient for managing different windows and seeing what I have opened. For extensions I downloaded negate window super+i which lets me invert any window I recently clicked on, and gTile where I can tile my windows without struggle.</p>
 <p>Desktop
-<img src="/images/desktop.png" alt="image2"></p>
+<img src="/images/desktop.png" alt="image1"></p>
+<p>Downloading files on linux mint wasn&rsquo;t too difficult as long as the software I wanted had clear documentation, and worked for debian or ubuntu. The software manager is super easy to download from and there is a lot of popular applications avaiable like steam, vlc player, discord. I tried out new of apps I never used before like rss guard which lets me save a feed of things I want to follow without having to manually checking different websites or channels, and supertuxkart which is like less bloated mario kart.</p>
+<p>I was able to run btd6, cs2, tf2, and minecraft java edition on my system natively or with steam proton. Protondb.com shows reports on what games work or doesn&rsquo;t work on linux proton. Im not going try what other games will work on my system, Im going to use this as a opportunity to waste less time playing games and buying new ones, as I would only play those few occasionality.</p>
+<p>Specs</p>
+<ul>
+<li>Pro B55M-VC WIFI motherboard with a AMD Ryzen 5 5560 CPU</li>
+<li>Nvidia RTX 2060 Super GPU</li>
+<li>2x8gb Corsair Vengeance LPX DDR4 2666Mhz</li>
+<li>2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz</li>
+<li>T500 Crucial 1TB NVMe M.2</li>
+<li>Kingston 240GB SSD</li>
+</ul>
+<p><img src="/images/pc.jpg" alt="image2"></p>
+<p><img src="/images/neofetch.png" alt="image3"></p>
 ]]></content:encoded>
     </item>
   </channel>

@@ -6,8 +6,7 @@ weight: 1
 
 hello there
 
-
-
+this website is just for fun nothing serious
 
 
 
