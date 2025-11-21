@@ -13,11 +13,11 @@
       <link>http://localhost:1313/blog/pc-specs/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/pc-specs/</guid>
-      <description>&lt;p&gt;Specs&#xA;&lt;img src=&#34;neofetch.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Desktop&#xA;&lt;img src=&#34;desktop.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Specs&#xA;&lt;img src=&#34;http://localhost:1313/site/static/images/neofetch.png&#34; alt=&#34;image1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Desktop&#xA;&lt;img src=&#34;http://localhost:1313/site/static/images/desktop.png&#34; alt=&#34;image2&#34;&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Specs
-<img src="neofetch.png" alt=""></p>
+<img src="/site/static/images/neofetch.png" alt="image1"></p>
 <p>Desktop
-<img src="desktop.png" alt=""></p>
+<img src="/site/static/images/desktop.png" alt="image2"></p>
 ]]></content:encoded>
     </item>
   </channel>

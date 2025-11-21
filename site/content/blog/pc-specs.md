@@ -8,8 +8,8 @@ math: true
 
 
 Specs
-![](neofetch.png)
+![image1](/site/static/images/neofetch.png)
 
 
 Desktop
-![](desktop.png)
+![image2](/site/static/images/desktop.png)
