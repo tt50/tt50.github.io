@@ -1,44 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Text on Bear Cub</title>
+    <title>Text on Tiffany&#39;s Webpage</title>
     <link>http://localhost:1313/tags/text/</link>
-    <description>Recent content in Text on Bear Cub</description>
+    <description>Recent content in Text on Tiffany&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <managingEditor>me@example.com (John Doe)</managingEditor>
-    <webMaster>me@example.com (John Doe)</webMaster>
+    <language>en-us</language>
     <lastBuildDate>Sat, 09 Mar 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/text/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Placeholder Text</title>
       <link>http://localhost:1313/blog/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>me@example.com (John Doe)</author>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
-<p>Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.</p>
-<ol>
-<li>Exierant elisi ambit vivere dedere</li>
-<li>Duce pollice</li>
-<li>Eris modo</li>
-<li>Spargitque ferrea quos palude</li>
-</ol>
-<p>Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.</p>
-<ol>
-<li>Comas hunc haec pietate fetum procerum dixit</li>
-<li>Post torum vates letum Tiresia</li>
-<li>Flumen querellas</li>
-<li>Arcanaque montibus omnes</li>
-<li>Quidem et</li>
-</ol>
-<h1 id="vagus-elidunt">Vagus elidunt</h1>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
-<p><a href="https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon">The Van de Graaf Canon</a></p>
-<h2 id="mane-refeci-capiebant-unda-mulcebat">Mane refeci capiebant unda mulcebat</h2>
-<p>Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. <strong>Faces illo pepulere</strong> tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.</p>
-<p>Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.</p>
-<p>Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel <strong>mitis temploque</strong> vocatus, inque alis, <em>oculos nomen</em> non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides <strong>parte</strong>.</p>]]></content:encoded>
+      <description>&lt;p&gt;Specs&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pro B55M-VC WIFI motherboard with a AMD Ryzen 5 5560 CPU&lt;/li&gt;&#xA;&lt;li&gt;Nvidia RTX 2060 Super GPU&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengeance LPX DDR4 2666Mhz&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz&lt;/li&gt;&#xA;&lt;li&gt;T500 Crucial 1TB NVMe M.2&lt;/li&gt;&#xA;&lt;li&gt;Kingston 240GB SSD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pc.jpg&#34; alt=&#34;image2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/neofetch.png&#34; alt=&#34;image3&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Specs</p>
+<ul>
+<li>Pro B55M-VC WIFI motherboard with a AMD Ryzen 5 5560 CPU</li>
+<li>Nvidia RTX 2060 Super GPU</li>
+<li>2x8gb Corsair Vengeance LPX DDR4 2666Mhz</li>
+<li>2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz</li>
+<li>T500 Crucial 1TB NVMe M.2</li>
+<li>Kingston 240GB SSD</li>
+</ul>
+<p><img src="/images/pc.jpg" alt="image2"></p>
+<p><img src="/images/neofetch.png" alt="image3"></p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

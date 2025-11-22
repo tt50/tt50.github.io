@@ -3,6 +3,9 @@ author = "Tiffany"
 title = "my computer"
 date = "2025-11-21"
 description = "pc"
+tags = [
+    "pc"
+]
 +++
 
 random stuff about my computer

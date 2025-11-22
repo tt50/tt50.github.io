@@ -21,8 +21,15 @@
 <img src="/images/desktop.png" alt="image1"></p>
 <p>Downloading files on linux mint wasn&rsquo;t too difficult as long as the software I wanted had clear documentation, and worked for debian or ubuntu. The software manager is super easy to download from and there is a lot of popular applications avaiable like steam, vlc player, discord. I tried out new of apps I never used before like rss guard which lets me save a feed of things I want to follow without having to manually checking different websites or channels, and supertuxkart which is like less bloated mario kart.</p>
 <p>I was able to run btd6, cs2, tf2, and minecraft java edition on my system natively or with steam proton. Protondb.com shows reports on what games work or doesn&rsquo;t work on linux proton. Im not going try what other games will work on my system, Im going to use this as a opportunity to waste less time playing games and buying new ones, as I would only play those few occasionality.</p>
-<p>Specs</p>
-<ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>pc specs</title>
+      <link>http://localhost:1313/blog/placeholder-text/</link>
+      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/placeholder-text/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Pro B55M-VC WIFI motherboard with a AMD Ryzen 5 5560 CPU&lt;/li&gt;&#xA;&lt;li&gt;Nvidia RTX 2060 Super GPU&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengeance LPX DDR4 2666Mhz&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz&lt;/li&gt;&#xA;&lt;li&gt;T500 Crucial 1TB NVMe M.2&lt;/li&gt;&#xA;&lt;li&gt;Kingston 240GB SSD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pc.jpg&#34; alt=&#34;image2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/neofetch.png&#34; alt=&#34;image3&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<ul>
 <li>Pro B55M-VC WIFI motherboard with a AMD Ryzen 5 5560 CPU</li>
 <li>Nvidia RTX 2060 Super GPU</li>
 <li>2x8gb Corsair Vengeance LPX DDR4 2666Mhz</li>
