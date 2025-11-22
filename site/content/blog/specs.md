@@ -8,7 +8,7 @@ tags = [
 ]
 +++
 
-- Pro B55M-VC WIFI motherboard with a AMD Ryzen 5 5560 CPU
+- Pro B55M-VC WIFI motherboard with a AMD Ryzen 5 5600 CPU
 - Nvidia RTX 2060 Super GPU
 - 2x8gb Corsair Vengeance LPX DDR4 2666Mhz 
 - 2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz 
