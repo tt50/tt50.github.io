@@ -13,14 +13,14 @@
       <link>http://localhost:1313/blog/mycomputer/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/mycomputer/</guid>
-      <description>&lt;p&gt;random stuff about my computer&lt;/p&gt;&#xA;&lt;p&gt;Previously my desktop computer had windows 10 installed for a while, I mainly used it only for watching media and playing video games. Then I updated to windows 11 in order to get system/security updates, but I only used it for a month. The ui was extremely bloated, with random news/copliot/weather icons on the lock screen, desktop screen, menu, taskbar, basically everywhere. Additionally, for windows in general I found the windows filesystem/commandprompt/powershell confusing to use, and files that should be saved to documents would save to onedrive for some reason.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>random stuff about my computer</p>
-<p>Previously my desktop computer had windows 10 installed for a while, I mainly used it only for watching media and playing video games. Then I updated to windows 11 in order to get system/security updates, but I only used it for a month. The ui was extremely bloated, with random news/copliot/weather icons on the lock screen, desktop screen, menu, taskbar, basically everywhere. Additionally, for windows in general I found the windows filesystem/commandprompt/powershell confusing to use, and files that should be saved to documents would save to onedrive for some reason.</p>
-<p>So I decided recently during this month (November 2025) to switch using Linux Mint. I figured out how to do some basic customiztion with the default and downloadable applets, extensions and themes. I added the OrchideaDock theme from the download section. Then I added on my taskbar workplace switcher and windows quick list, which are really convient for managing different windows and seeing what I have opened. For extensions I downloaded negate window super+i which lets me invert any window I recently clicked on, and gTile where I can tile my windows without struggle.</p>
+      <description>&lt;p&gt;random stuff about my computer and linux noob experience&lt;/p&gt;&#xA;&lt;p&gt;Previously, my desktop computer had Windows 10 installed for a while. I mainly used it only for watching media and playing video games. Then I updated to Windows 11 in order to get system/security updates, but I only used it for a month. The ui was extremely bloated, with random news/copliot/weather icons on the lock screen, desktop screen, menu, taskbar, basically everywhere. For Windows in general I found the Windows filesystem/commandprompt/powershell confusing to use, and files that should be saved to documents would save to onedrive for some reason.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>random stuff about my computer and linux noob experience</p>
+<p>Previously, my desktop computer had Windows 10 installed for a while. I mainly used it only for watching media and playing video games. Then I updated to Windows 11 in order to get system/security updates, but I only used it for a month. The ui was extremely bloated, with random news/copliot/weather icons on the lock screen, desktop screen, menu, taskbar, basically everywhere. For Windows in general I found the Windows filesystem/commandprompt/powershell confusing to use, and files that should be saved to documents would save to onedrive for some reason.</p>
+<p>So I decided recently during this month (November 2025) to switch to using Linux Mint. I figured out how to do some basic customization with the default and downloadable applets, extensions and themes. I added the OrchideaDock theme from the download section. On my taskbar I added switcher and windows quick list, which are convenient for managing different windows and seeing what I have opened. For extensions, I downloaded Negate Window Super+I which lets me invert any window I recently clicked on, and gTile where I can tile my windows without struggle.</p>
 <p>Desktop
 <img src="/images/desktop.png" alt="image1"></p>
-<p>Downloading files on linux mint wasn&rsquo;t too difficult as long as the software I wanted had clear documentation, and worked for debian or ubuntu. The software manager is super easy to download from and there is a lot of popular applications avaiable like steam, vlc player, discord. I tried out new of apps I never used before like rss guard which lets me save a feed of things I want to follow without having to manually checking different websites or channels, and supertuxkart which is like less bloated mario kart.</p>
-<p>I was able to run btd6, cs2, tf2, and minecraft java edition on my system natively or with steam proton. Protondb.com shows reports on what games work or doesn&rsquo;t work on linux proton. Im not going try what other games will work on my system, Im going to use this as a opportunity to waste less time playing games and buying new ones, as I would only play those few occasionality.</p>
+<p>Downloading files on Linux Mint wasn&rsquo;t too difficult as long as the software I wanted had clear documentation, and worked for Debian or Ubuntu. The software manager is super easy to download from and there is a lot of popular applications avaiable, like Steam and VLC Player. I tried out new apps I have never used before, like RSS Guard which lets me save a feed of things I want to follow without having to manually check different websites or channels, and SuperTuxKart which is like a less bloated Mario Kart.</p>
+<p>I was able to run Bloons Tower Defense 6, Counter-Strike 2, Team Fortress 2, and Minecraft Java Edition on my system natively or with steam proton. Protondb.com shows reports on what games work or doesn&rsquo;t work on Proton. I&rsquo;m not going to try to test what other games will work on my system though. I&rsquo;m going to use this as a opportunity to stop buying new ones on steam or any game market.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -28,9 +28,17 @@
       <link>http://localhost:1313/blog/specs/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/specs/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Pro B55M-VC WIFI motherboard with a AMD Ryzen 5 5600 CPU&lt;/li&gt;&#xA;&lt;li&gt;Nvidia RTX 2060 Super GPU&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengeance LPX DDR4 2666Mhz&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz&lt;/li&gt;&#xA;&lt;li&gt;T500 Crucial 1TB NVMe M.2&lt;/li&gt;&#xA;&lt;li&gt;Kingston 240GB SSD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pc.jpg&#34; alt=&#34;image2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/neofetch.png&#34; alt=&#34;image3&#34;&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<ul>
-<li>Pro B55M-VC WIFI motherboard with a AMD Ryzen 5 5600 CPU</li>
+      <description>&lt;p&gt;Setup&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;27 inch LG Monitor 144Hz 2560 x 1440&lt;/li&gt;&#xA;&lt;li&gt;Razer DeathAdder V3 Mouse&lt;/li&gt;&#xA;&lt;li&gt;Keychron K2 Keyboard&lt;/li&gt;&#xA;&lt;li&gt;Random Speaker Bar&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Computer Specs&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pro B55M-VC WIFI Motherboard with a AMD Ryzen 5 5600 CPU&lt;/li&gt;&#xA;&lt;li&gt;Nvidia RTX 2060 Super GPU&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengeance LPX DDR4 2666Mhz&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz&lt;/li&gt;&#xA;&lt;li&gt;T500 Crucial 1TB NVMe M.2&lt;/li&gt;&#xA;&lt;li&gt;Kingston 240GB SSD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pc.jpg&#34; alt=&#34;image2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/neofetch.png&#34; alt=&#34;image3&#34;&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Setup</p>
+<ul>
+<li>27 inch LG Monitor 144Hz 2560 x 1440</li>
+<li>Razer DeathAdder V3 Mouse</li>
+<li>Keychron K2 Keyboard</li>
+<li>Random Speaker Bar</li>
+</ul>
+<p>Computer Specs</p>
+<ul>
+<li>Pro B55M-VC WIFI Motherboard with a AMD Ryzen 5 5600 CPU</li>
 <li>Nvidia RTX 2060 Super GPU</li>
 <li>2x8gb Corsair Vengeance LPX DDR4 2666Mhz</li>
 <li>2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz</li>
