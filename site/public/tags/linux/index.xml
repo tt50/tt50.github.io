@@ -1,42 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tiffany&#39;s Webpage</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Tiffany&#39;s Webpage</description>
+    <title>Linux on Tiffany&#39;s Webpage</title>
+    <link>http://localhost:1313/tags/linux/</link>
+    <description>Recent content in Linux on Tiffany&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hardware</title>
-      <link>http://localhost:1313/blog/hardware/</link>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/hardware/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pc.jpg&#34; alt=&#34;image2&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Desktop Computer Specs&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pro B55M-VC WIFI Motherboard with a AMD Ryzen 5 5600 CPU&lt;/li&gt;&#xA;&lt;li&gt;Nvidia RTX 2060 Super GPU&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengeance LPX DDR4 2666Mhz&lt;/li&gt;&#xA;&lt;li&gt;2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz&lt;/li&gt;&#xA;&lt;li&gt;T500 Crucial 1TB NVMe M.2&lt;/li&gt;&#xA;&lt;li&gt;Kingston 240GB SSD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Laptop&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;M1 Macbook Air 16GB Ram 512 SSD&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Desk Setup&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;27 inch LG Monitor 144Hz 2560 x 1440&lt;/li&gt;&#xA;&lt;li&gt;Razer DeathAdder V3 Mouse&lt;/li&gt;&#xA;&lt;li&gt;Keychron K2 Keyboard&lt;/li&gt;&#xA;&lt;li&gt;Random Speaker Bar&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<p><img src="/images/pc.jpg" alt="image2"></p>
-<p>Desktop Computer Specs</p>
-<ul>
-<li>Pro B55M-VC WIFI Motherboard with a AMD Ryzen 5 5600 CPU</li>
-<li>Nvidia RTX 2060 Super GPU</li>
-<li>2x8gb Corsair Vengeance LPX DDR4 2666Mhz</li>
-<li>2x8gb Corsair Vengenace RGB Pro DDR4 3200Mhz</li>
-<li>T500 Crucial 1TB NVMe M.2</li>
-<li>Kingston 240GB SSD</li>
-</ul>
-<p>Laptop</p>
-<ul>
-<li>M1 Macbook Air 16GB Ram 512 SSD</li>
-</ul>
-<p>Desk Setup</p>
-<ul>
-<li>27 inch LG Monitor 144Hz 2560 x 1440</li>
-<li>Razer DeathAdder V3 Mouse</li>
-<li>Keychron K2 Keyboard</li>
-<li>Random Speaker Bar</li>
-</ul>
-]]></content:encoded>
-    </item>
+    <atom:link href="http://localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Switching to Linux From Windows</title>
       <link>http://localhost:1313/blog/linuxnoob/</link>

@@ -1,10 +1,10 @@
 +++
 author = "Tiffany"
-title = "my computer"
+title = "Switching to Linux From Windows"
 date = "2025-11-21"
 description = "pc"
 tags = [
-    "pc"
+    "linux"
 ]
 +++
 
