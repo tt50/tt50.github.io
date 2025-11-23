@@ -6,16 +6,16 @@
     <description>Recent content in Website on Tiffany&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website</title>
       <link>http://localhost:1313/blog/website/</link>
-      <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/website/</guid>
-      <description>&lt;p&gt;This websites uses Github Pages with Hugo. The theme I&amp;rsquo;m using is hugo-bearcub.&lt;/p&gt;&#xA;&lt;p&gt;GitHub Repo&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/tt50/tt50.github.io&#34;&gt;https://github.com/tt50/tt50.github.io&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sources&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/pages&#34;&gt;https://docs.github.com/en/pages&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;https://github.com/gohugoio/hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/clente/hugo-bearcub&#34;&gt;https://github.com/clente/hugo-bearcub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;This websites uses Github Pages with Hugo. The theme I&amp;rsquo;m using is hugo-bearcub.&lt;/p&gt;&#xA;&lt;p&gt;My GitHub Repository&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/tt50/tt50.github.io&#34;&gt;https://github.com/tt50/tt50.github.io&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sources&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/pages&#34;&gt;https://docs.github.com/en/pages&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;https://github.com/gohugoio/hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/clente/hugo-bearcub&#34;&gt;https://github.com/clente/hugo-bearcub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       <content:encoded><![CDATA[<p>This websites uses Github Pages with Hugo. The theme I&rsquo;m using is hugo-bearcub.</p>
-<p>GitHub Repo</p>
+<p>My GitHub Repository</p>
 <ul>
 <li><a href="https://github.com/tt50/tt50.github.io">https://github.com/tt50/tt50.github.io</a></li>
 </ul>

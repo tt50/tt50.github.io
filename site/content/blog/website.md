@@ -1,14 +1,14 @@
 +++
 author = "Tiffany"
-title = "Website"
+title = "My Website"
 date = "2025-11-22"
-description = "Website"
+description = "My Website"
 tags = [
-    "Website"
+    "websites"
 ]
 +++
 
-This websites uses Github Pages with Hugo. The theme I'm using is hugo-bearcub.
+This website uses Github Pages with Hugo. The theme I'm using is hugo-bearcub.
 
 My GitHub Repository
 - https://github.com/tt50/tt50.github.io
