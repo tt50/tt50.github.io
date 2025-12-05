@@ -6,8 +6,29 @@
     <description>Recent content in Blog on Tiffany&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/blog/links/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/links/</guid>
+      <description>&lt;p&gt;Useful Stuff:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://fmhy.net/video&#34;&gt;https://fmhy.net/video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://annas-archive.org/&#34;&gt;https://annas-archive.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;https://www.gutenberg.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://archive.org/&#34;&gt;https://archive.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wiby.org/&#34;&gt;https://wiby.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.virustotal.com/gui/home/upload&#34;&gt;https://www.virustotal.com/gui/home/upload&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Browser Extensions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ublockorigin.com/&#34;&gt;https://ublockorigin.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Useful Stuff:</p>
+<ul>
+<li><a href="https://fmhy.net/video">https://fmhy.net/video</a></li>
+<li><a href="https://annas-archive.org/">https://annas-archive.org/</a></li>
+<li><a href="https://www.gutenberg.org/">https://www.gutenberg.org/</a></li>
+<li><a href="https://archive.org/">https://archive.org/</a></li>
+<li><a href="https://wiby.org/">https://wiby.org/</a></li>
+<li><a href="https://www.virustotal.com/gui/home/upload">https://www.virustotal.com/gui/home/upload</a></li>
+</ul>
+<p>Browser Extensions:</p>
+<ul>
+<li><a href="https://ublockorigin.com/">https://ublockorigin.com/</a></li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Debloating the Youtube UI</title>
       <link>http://localhost:1313/blog/youtubedebloat/</link>
@@ -170,13 +191,13 @@ www.youtube.com##.smartimation__content &gt; ytd-button-renderer &gt; yt-button-
       <link>http://localhost:1313/blog/website/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/website/</guid>
-      <description>&lt;p&gt;This website uses Github Pages with Hugo. The theme I&amp;rsquo;m using is hugo-bearcub.&lt;/p&gt;&#xA;&lt;p&gt;My GitHub Repository&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/tt50/tt50.github.io&#34;&gt;https://github.com/tt50/tt50.github.io&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Sources&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/pages&#34;&gt;https://docs.github.com/en/pages&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;https://github.com/gohugoio/hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/clente/hugo-bearcub&#34;&gt;https://github.com/clente/hugo-bearcub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;This website uses Github Pages with Hugo. The theme I&amp;rsquo;m using is hugo-bearcub.&lt;/p&gt;&#xA;&lt;p&gt;My GitHub Repository&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/tt50/tt50.github.io&#34;&gt;https://github.com/tt50/tt50.github.io&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Resources&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://docs.github.com/en/pages&#34;&gt;https://docs.github.com/en/pages&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo&#34;&gt;https://github.com/gohugoio/hugo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/clente/hugo-bearcub&#34;&gt;https://github.com/clente/hugo-bearcub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
       <content:encoded><![CDATA[<p>This website uses Github Pages with Hugo. The theme I&rsquo;m using is hugo-bearcub.</p>
 <p>My GitHub Repository</p>
 <ul>
 <li><a href="https://github.com/tt50/tt50.github.io">https://github.com/tt50/tt50.github.io</a></li>
 </ul>
-<p>Sources</p>
+<p>Resources</p>
 <ul>
 <li><a href="https://docs.github.com/en/pages">https://docs.github.com/en/pages</a></li>
 <li><a href="https://github.com/gohugoio/hugo">https://github.com/gohugoio/hugo</a></li>

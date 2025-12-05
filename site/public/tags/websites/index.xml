@@ -6,8 +6,29 @@
     <description>Recent content in Websites on Tiffany&#39;s Webpage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/websites/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/blog/links/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/links/</guid>
+      <description>&lt;p&gt;Useful Stuff:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://fmhy.net/video&#34;&gt;https://fmhy.net/video&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://annas-archive.org/&#34;&gt;https://annas-archive.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.gutenberg.org/&#34;&gt;https://www.gutenberg.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://archive.org/&#34;&gt;https://archive.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wiby.org/&#34;&gt;https://wiby.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.virustotal.com/gui/home/upload&#34;&gt;https://www.virustotal.com/gui/home/upload&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Browser Extensions:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://ublockorigin.com/&#34;&gt;https://ublockorigin.com/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Useful Stuff:</p>
+<ul>
+<li><a href="https://fmhy.net/video">https://fmhy.net/video</a></li>
+<li><a href="https://annas-archive.org/">https://annas-archive.org/</a></li>
+<li><a href="https://www.gutenberg.org/">https://www.gutenberg.org/</a></li>
+<li><a href="https://archive.org/">https://archive.org/</a></li>
+<li><a href="https://wiby.org/">https://wiby.org/</a></li>
+<li><a href="https://www.virustotal.com/gui/home/upload">https://www.virustotal.com/gui/home/upload</a></li>
+</ul>
+<p>Browser Extensions:</p>
+<ul>
+<li><a href="https://ublockorigin.com/">https://ublockorigin.com/</a></li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>Debloating the Youtube UI</title>
       <link>http://localhost:1313/blog/youtubedebloat/</link>
